@@ -1,22 +1,5 @@
 {
-  "name": "express-enviar-emails",
-  "version": "1.0.0",
-  "description": "Este repositório no GitHub contém um projeto que permite enviar emails usando as tecnologias Node, Express e Nodemailer. O código fonte está organizado em pastas separadas, cada uma com suas respectivas funcionalidades.",
-  "main": "src/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/akicodeoficial/node-express-enviar-emails.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/akicodeoficial/node-express-enviar-emails/issues"
-  },
-  "homepage": "https://github.com/akicodeoficial/node-express-enviar-emails#readme",
+  "private": true,
   "dependencies": {
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
