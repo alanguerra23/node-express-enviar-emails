@@ -27,3 +27,6 @@ Além disso, o projeto conta com uma documentação clara e concisa, explicando 
 ```sh
   node src/index.js
 ```
+
+## Acesse
+**POST/GET http://localhost:3000**
