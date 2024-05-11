@@ -1,8 +1,6 @@
 # Enviando Emails com Nodemailer
 
-Este repositório no GitHub contém um projeto que permite enviar emails usando as tecnologias Node, Express e Nodemailer. O código fonte está organizado em pastas separadas, cada uma com suas respectivas funcionalidades.
-
-Além disso, o projeto conta com uma documentação clara e concisa, explicando como utilizar cada uma das funcionalidades implementadas. Com este projeto, é possível enviar emails de forma simples e eficiente, podendo ser utilizado tanto para fins pessoais quanto profissionais.
+Criando um servidor express.js para enviar um email utilizando a rota padrão da api, utilizando a biblioteca nodemailer podemos enviar emails.
 
 ## Instalando Dependências
 
